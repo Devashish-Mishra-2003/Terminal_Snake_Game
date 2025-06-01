@@ -49,14 +49,3 @@ Make sure you're on a **Windows environment** due to use of `<conio.h>` and `<wi
 
     ./snake
 
-Preview :
-
-######################
-#                    #
-#                    #
-#         O          #
-#                    #
-#        *           #
-#                    #
-######################
-Score: 10
