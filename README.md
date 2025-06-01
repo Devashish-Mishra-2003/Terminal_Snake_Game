@@ -47,5 +47,6 @@ Make sure you're on a **Windows environment** due to use of `<conio.h>` and `<wi
    g++ -o snake snake.cpp
 2. Run the game:
 
+   ```bash
     ./snake
 
